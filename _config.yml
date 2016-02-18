@@ -1,16 +1,26 @@
-permalink: /:categories/:title.html
-url: "http://www.edisonorellana.com/"
-full_name: "Edison Orellana"
-first_name: "Edison"
-last_name: "Orellana"
-blog_title: "Follow my directions."
-author_img_name_path: "/images/users/photo.jpg"
-disqus_shortname: ""
-copyright_year: "	2015"
-google_analytics_code: ""
-aboutme: "Follow my directions."
-twitter: "annuit02"
-github: "annuit02"
-facebook: "edisonorellana"
-linkined_url: ""
-base_url: "/testsite"
+# general configuration
+url: edisonorellana.com
+baseurl: ''
+
+# compass configuration
+compass:
+  # an avatar or logo (optional)
+  logo: "/images/users/photo.jpg"
+  # author will appear under the avatar (optional)
+  author: "Edison Orellana"
+  # tagline will appear under the title (optional)
+  tagline: "Follow my directions"
+  # if include_content is true, the contents of the content.html include will be
+  # added right above the generated item list, if present
+  include_content: true
+  # if include_analytics is true, the content of the analytics.html include will
+  # be added at the end of the <head> section. You can add your Google Analytics
+  # Tracking Code to that file.
+  include_analytics: false
+
+# Dependencies
+markdown: kramdown
+highlighter: rouge
+
+# Permalinks
+permalink: pretty
