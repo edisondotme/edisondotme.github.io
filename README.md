@@ -1,21 +1,21 @@
-#Jekyll Masonry Theme
+# Documentation
 
-This using masonry griding to give a nice design
+Compass is a Jekyll theme designed with something very specific in mind: to be a simple and elegant personal landing page that can be easily deployed to [GitHub Pages](https://pages.github.com/).
 
-Demo - [http://pasindud.github.io/](http://pasindud.github.io/)
+## How to use Compass
 
-Dev by Pasindu De Silva
+1. Start by [installing Bundler](http://bundler.io) `gem install bundler`
+2. [Fork the Compass repository](https://github.com/excentris/compass/fork)
+3. Clone the repository you just forked: `git clone https://github.com/YOUR-USER/compass`
+4. Then run `bundle install` to get [Jekyll](http://jekyllrb.com) and all the dependencies.
+5. Edit `_config.yml` as needed.
+6. Run the Jekyll server with `bundle exec jekyll serve`
+7. Go to `http://localhost:4000`
 
-Was orignial authored by [Arunoda](https://github.com/arunoda)
+## Deploy your site to GitHub Pages
 
-###License
+If you want to use Compass as your personal landing page you can deploy your site to GitHub Pages as a [User Page](https://help.github.com/articles/user-organization-and-project-pages/#user--organization-pages). To do so, when you are done modifying your clone, you should rename your repository to `username.github.io` where username is your username. When GitHub builds the page it will be made available at `https://username.github.io`.
 
-The MIT License (MIT)
+If you are planning on using a custom domain to direct to your site, modify the CNAME file as described [here](https://help.github.com/articles/adding-a-cname-file-to-your-repository/).
 
-Copyright (c) 2015 Pasindu
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Check the [GitHub Pages Basics](https://help.github.com/categories/github-pages-basics/) for more information.
