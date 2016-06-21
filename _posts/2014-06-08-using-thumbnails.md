@@ -1,26 +1,18 @@
 ---
 layout:     post
-title:      Using thumbnails
-date:       2014-06-08 12:32:18
-summary:    Using thumbnails in your Carte Noire articles.
-categories: jekyll
+title:      Arduino Powered Motorcycle Tachometer
+date:       2016-06-20 12:32:18
+summary:    Chronicles of my project to add a Tachometer to my motorcycle. 
+categories: motorcycle
 thumbnail: jekyll
 tags:
- - thumbnails
- - carte noire
+ - motorcycle
+ - arduino 
 ---
 
-Carte Noire is designed to start each article with an all-white image as a
-thumbnail. These are created by adding a `thumbnail` parameter to the article's
-[YAML frontmatter][1]. This thumbnail parameter is processed in one of two ways,
-images specified in `_data/thumbnails.yml` or using [Font Awesome][2].
+## Summary
 
-## Images
-
-To use your own custom images as a thumbnail you must upload them to a web available
-location (I use [Imgur][3]) and then you need to add the url to `_data/thumbnail.yml`
-with an associated keyword.
-
+My motorcycle doesn't come with 
 ```
 jekyll: "http://i.imgur.com/aRQcGSi.png"
 ```
