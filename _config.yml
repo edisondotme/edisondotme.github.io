@@ -1,12 +1,21 @@
 # Site settings
 title: "Edison Orellana"
-email: me@edisonorellana.com 
+email: me@edison.com 
 description: "Personal website for Edison Orellana"
 baseurl: ""
 url: "edison.me"
 title_description: "Geographic Information Science graduate from the University of Illinois at Urbana Champaign"
 title_image: "https://gravatar.com/avatar/56b00aca58d5c1b7ddcca365ab0f7df4?s=512"
-google_analytics: ""
+google_analytics: "<script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+                        
+                          ga('create', 'UA-82428263-1', 'auto');
+                            ga('send', 'pageview');
+                            
+                            </script>"
 disqus_account: edisondotme
 # addthis_id: ra-513c6fa83da6ec67
 post_limit: 5

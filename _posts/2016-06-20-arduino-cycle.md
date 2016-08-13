@@ -4,7 +4,7 @@ title:      Arduino Powered Motorcycle Tachometer
 date:       2016-06-20 12:32:18
 summary:    Chronicles of my project to add a Tachometer to my motorcycle. 
 categories: motorcycle
-thumbnail: arduino
+thumbnail: motorcycle
 tags:
  - motorcycle
  - arduino 
