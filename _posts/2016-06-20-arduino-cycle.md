@@ -15,17 +15,17 @@ tags:
 
 My motorcycle doesn't come with an onboard tachometer, so I want to add my own. While I'm at it, why not add an entire control system? I have big dreams for my moto-computer. Some of my ideas so far:
 
-    * Smart dash display
-    * Gear indicator
-    * GPS tracking system for recovery and telemetry
-    * Remote choke actuation + remote start (but what's the point really?)
-    * Control custom lighting
-    * Custom cyberpunkish tail lights
-    * Rear and front dashcams on loop record
-    * RFID starter
-    * Pebble integration to buzz me when I forgot to cancel my turn signal
-    * Gas meter + gas consumption data logger
-    * ...
+   * Smart dash display
+   * Gear indicator
+   * GPS tracking system for recovery and telemetry
+   * Remote choke actuation + remote start (but what's the point really?)
+   * Control custom lighting
+   * Custom cyberpunkish tail lights
+   * Rear and front dashcams on loop record
+   * RFID starter
+   * Pebble integration to buzz me when I forgot to cancel my turn signal
+   * Gas meter + gas consumption data logger
+   * ...
 
 There is certainly no shortage of ideas. 
 
