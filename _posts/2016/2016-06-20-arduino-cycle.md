@@ -5,7 +5,7 @@ author: Edison Orellana
 date:       2016-06-20 12:32:18
 summary:    Chronicles of my project to add a Tachometer to my motorcycle. 
 categories: motorcycle
-thumbnail: motorcycle
+thumbnail: code
 tags:
   - motorcycle
   - arduino 
