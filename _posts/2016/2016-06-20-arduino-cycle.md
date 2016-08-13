@@ -1,14 +1,16 @@
 ---
 layout:     post
-title:      Arduino Powered Motorcycle Tachometer
+title:      'Arduino Powered Motorcycle Tachometer'
+author: Edison Orellana
 date:       2016-06-20 12:32:18
 summary:    Chronicles of my project to add a Tachometer to my motorcycle. 
 categories: motorcycle
-thumbnail: motorcycle
+thumbnail: fa-motorcycle
 tags:
- - motorcycle
- - arduino 
- - hardware
+  - motorcycle
+  - arduino 
+  - hardware
+excerpt: "Customizing a motorcycle with electronics"
 ---
 
 ## Summary
@@ -27,6 +29,6 @@ My motorcycle doesn't come with an onboard tachometer, so I want to add my own. 
    * Gas meter + gas consumption data logger
    * ...
 
-There is certainly no shortage of ideas. 
+There is certainly no shortage of ideas. Implementing all of thes ideas would be exceptionally difficult, so I'd like to start with just a tachometer and work my way up. I've already done extensive research on some of the circuitry I'd need. 
 
 
