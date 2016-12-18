@@ -1,0 +1,28 @@
+[
+  
+  {
+    "title"    : "Arduino Powered Motorcycle Tachometer",
+    "category" : "",
+    "tags"     : "motorcycle, arduino, hardware",
+    "url"      : "/motorcycle/2016/06/20/arduino-cycle/",
+    "date"     : "2016-06-20 07:32:18 -0500"
+    } ,
+    
+  {
+    "title"    : "Estimating Leaf Cover in Costa Rica Forests using k-means Clustering",
+    "category" : "",
+    "tags"     : "hemispherical photography, machine learning, R",
+    "url"      : "/code,/gis/2016/05/10/canopy-cover/",
+    "date"     : "2016-05-10 00:00:00 -0500"
+    } ,
+    
+  {
+    "title"    : "Contour plots on TI-Nspire",
+    "category" : "",
+    "tags"     : "nspire",
+    "url"      : "/nspire/2013/06/20/countour-plots-nspire/",
+    "date"     : "2013-06-20 07:32:18 -0500"
+    } 
+    
+  ]
+
