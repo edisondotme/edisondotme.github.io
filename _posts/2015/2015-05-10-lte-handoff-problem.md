@@ -8,9 +8,8 @@ categories: code, gis
 thumbnail: code
 tags:
   - spatial analysis
-  - machine learning 
-  - R
-excerpt: "GIS Methof for solving the LTE handoff problem for High Speed Rail"
+  - school work
+excerpt: "GIS Method for solving the LTE handoff problem for High Speed Rail"
 ---
 
 ## Intro
