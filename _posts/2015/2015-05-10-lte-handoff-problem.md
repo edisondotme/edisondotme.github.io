@@ -15,7 +15,7 @@ excerpt: "GIS Methof for solving the LTE handoff problem for High Speed Rail"
 
 ## Intro
 
-The following is an article version of a paper I did for a spatial analysis class. 
+The following is an article version of a paper I did for a spatial analysis class a long time ago early in my undergraduate career.
 
 China has the worlds longest high speed rail (HSR) network in the world. With over 9,900
 miles of track, it has more high speed rail than the rest of the world combined. While these
