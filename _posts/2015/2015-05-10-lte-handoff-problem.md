@@ -64,11 +64,11 @@ their investment in automation technology.
 
 
 
-	*t: the time required for a mobile device to successfully complete a hand-off (i.e. switch from one tower to the next consecutive tower)
-	*$$\alpha$$: alpha, the calculated overlap distance between two consecutive tower ranges.
-	*D: the range of a tower
-	*i: the calculated distance between two consecutive towers.
-	*v: not pictured, but v is the speed of the train
+* t: the time required for a mobile device to successfully complete a hand-off (i.e. switch from one tower to the next consecutive tower)
+* $$\alpha$$: alpha, the calculated overlap distance between two consecutive tower ranges.
+* D: the range of a tower
+* i: the calculated distance between two consecutive towers.
+* v: not pictured, but v is the speed of the train
 
 In a very simplified version of this problem, we are looking to calculate alpha, the minimum
 distance required to successfully complete a hand­off for a typical device. From the
@@ -87,11 +87,11 @@ Now that weve calculated a general relationship between all of our necessary var
 the variables we are trying to solve for, we can plug in our real world values and calculate the
 interval distance i.
 
-| t | 20ms |
-| v | 434.5 km/hr  |
-| D | 35km |
-| $$\alpha$$  | 2.415m  |
-| i | 70km  |
+* t 20ms
+* v 434.5 km/hr
+* D 35km
+* $$\alpha$$ 2.415m
+* i 70km
 
 Using this answer we can visualize what our track must look like. The following map is a map
 of Taiwan that serves as an example to visualize what the application of the previous analysis
