@@ -1,16 +1,31 @@
 <html>
 <head>
 	<link rel="stylesheet" href="./static/style.css">
-	<link id="templates" rel="import" href="nav.html">
 	<meta charset="utf-8">
 	<title>TEMPLATE_PAGE · Edison Orellana</title>
 </head>
 <body>
-	<div id="nav"></div>
+	<nav id="menu">
+		<span class="title"><a href="/">Edison Orellana</a></span>
+		<ul>
+			<li><a href="about">About</a></li>
+			<li><a href="blog">Blog</a></li>
+			<li><a href="links">Links</a></li>
+			<li><a href="travel">Travel</a></li>
+		</ul>
+	</nav>
 	<div id="left">&nbsp;</div>
 	<div id="content">
-		<p>Content goes here!</p>
+		<!-- <p>Content goes here!</p> -->
 	</div>
-<script src="static/whoosh.js" type="text/javascript"></script>
+	<footer>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+				// edit content.html to actual content html
+				$("#content").load("content.html");
+			});
+		</script>
+	</footer>
 </body>
 </html>
