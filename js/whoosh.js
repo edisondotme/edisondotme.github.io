@@ -7,6 +7,12 @@
 // document.getElementById('nav').appendChild(clone);
 
 $(document).ready(function(){
-	$("#content").load("link_content.html");
+	$("#loader").load("/pages/info.html");
+	$("#nav").load("/pages/nav.html");
+	setTimeout(function() {$("#content").load("/pages/info.html")}, 3000);
 	;
 });
+
+function show_stuff() {
+	$("#content").load("info.html");
+}
