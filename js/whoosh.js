@@ -9,7 +9,7 @@
 $(document).ready(function(){
 	$("#loader").load("/pages/info.html");
 	$("#nav").load("/pages/nav.html");
-	setTimeout(function() {$("#content").load("/pages/info.html")}, 3000);
+	// setTimeout(function() {$("#content").load("/pages/info.html")}, 3000);
 	;
 });
 
