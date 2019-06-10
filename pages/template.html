@@ -1,31 +1,26 @@
 <html>
 <head>
-	<link rel="stylesheet" href="./static/style.css">
+	<link rel="stylesheet" href="/css/style2.css">
 	<meta charset="utf-8">
-	<title>TEMPLATE_PAGE · Edison Orellana</title>
+	<title>Test page</title>
 </head>
 <body>
-	<nav id="menu">
-		<span class="title"><a href="/">Edison Orellana</a></span>
-		<ul>
-			<li><a href="about">About</a></li>
-			<li><a href="blog">Blog</a></li>
-			<li><a href="links">Links</a></li>
-			<li><a href="travel">Travel</a></li>
-		</ul>
-	</nav>
-	<div id="left">&nbsp;</div>
-	<div id="content">
-		<!-- <p>Content goes here!</p> -->
-	</div>
-	<footer>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
-		<script type="text/javascript">
-			$(document).ready(function(){
-				// edit content.html to actual content html
-				$("#content").load("content.html");
-			});
-		</script>
-	</footer>
+	<section id="nav"></section>
+	<section class="content">
+		<header>
+			<p>This is in a header</p>
+		</header>
+		<p>This is outside the header.</p>
+		<section>
+			<p>
+				This is inside a section tag. What is it for?
+			</p>
+			<aside>This is in an aside tag.</aside>
+		</section>
+	</section>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="/js/whoosh.js" type="text/javascript"></script>
+	
 </body>
 </html>
