@@ -7,7 +7,6 @@ $(document).ready(function(){
 
 	// wait .5 seconds, then execute function
 	setTimeout(show_stuff, 500);
-
 });
 
 function show_stuff() {
