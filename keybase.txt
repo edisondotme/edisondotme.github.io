@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/edisondotme
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://edison.me
+  * I am edisondotme (https://keybase.io/edisondotme) on keybase.
+  * I have a public key with fingerprint 66EB 8577 CA59 4A9D 61C3  9D04 3709 C515 FABF D097
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201745a1259ccec10c66b6fc3a948ef8d3cb93262ad53835cb13a57f23e77acf1c0a",
+      "fingerprint": "66eb8577ca594a9d61c39d043709c515fabfd097",
+      "host": "keybase.io",
+      "key_id": "3709c515fabfd097",
+      "kid": "01011198bcbb5ccd2941f4886a25f5d0791c010ddf62aa21273599341179872e6d870a",
+      "uid": "fb0e69a23e9e240e8e7fb91e1e915819",
+      "username": "edisondotme"
+    },
+    "service": {
+      "hostname": "edison.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1597890365,
+  "expire_in": 157680000,
+  "prev": "7445664eed3485260075bff3e181da38a8fd72c0a36859de4bda241f1c6049d7",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNyAnicbVJ7UFRVGN+VQKCQrZEcHR56cQx1o3vu+yyhARIz+AgYS3Ks5T7OhQ3Y
+u+1eiMc4Q/IoByIpHHDcUkKdycEYHsoQFGzCZEljZiBDhCgkQg6MEIgk0F0m/2im
+888533d+v9/5fd/5uvw8dL561qc7YKHj5yr9VVd1ls4ceSsyHxMUKRcz5WPpaGVD
+GRJyqOZ0i4SZMBwQOGApmgcEDUURiQAXGUZgZJHkIcUhmZNIUYAkwRC8RJMcSYsC
+IHmalQkSsSwvykDEecyIyRZrKrLb7BarqskyDBI4mmVFnoYUDyUGiCSUcIpkcSjS
+gJZ5QZZwyGrENMXhZmjmBN6Bwi2KltMC84q9/8E/8Y0DACAniIJAi6JEQArIFMcx
+PEHLtISzUPMFcEmSNeM8AQiWpCEkKQBYyLEEYiSOXfGdtSInCzhiIK/VBBFB4YhD
+rCxAgACCgOYAdAMdyG7lM5GGRpLFoVglRdWiw0ZMu8i2iMjdW3cx/wGFa2cjZrMr
+qiIqGVo6TVVtDpObpuba3Lj3kGD+V8EsWKyS1keNkY3sDotixUxAQ4qqxS0JaMhy
+ECcZ2oihHJvFjswWN4JmGQ7XlvsdlK1JshRFMwyFkERSHE0wOM7SgiyTCHBA4kmO
+52SJJbR/IxmOhhKiBIkntP4BkcEpKLm77EDvWhVNm9B88qmapsOSauXVLLtW8Xeu
+Q0/p9L46L89V7gHT+foYnoxdUI1BVxqy6+almmbo1d43XOUjTGZJ/UfPfT6zLqLj
+eNBWw+v5wbNDfRPFD7Oc+JUPl2P9UvY3VFvP9jw3NNhOFh5on+0paJ6/Jui/vR/c
+8v6UMX3prUczB+cqXvu66XDSVFCuXd+822NbwvWHhUfi21IMJd6LaF9iTJGJUr0K
+QiiHc9Pg2y8YxvacMsetvxL27HLx+QsLU21bbx1puNcSu3u5IGTu9ETXx6vWhYtn
+AL/XGdFyW62YfWWxzDUcNqf+0lk2cKp8fOfk0upeweX6bLL3+ObapC1FztbgX/f2
+51RGz3jqez6FAynz20f9YZ7pg6aj4bFHBP/66YWo9iYqPMaUt2F5C+RP2JqTN3VV
+xpwu/q1vsOBMwr3KGx4nKqsvdjZ2z9ED0+OHvrzI7yk/acMcG+euySN/JGZMvXjS
+uTrFGWpqjI1/kJNweeODncrz0ZfqUusIz5HHoV+9HFIy+Gc5eeFywJqcY/6BgVcD
+dnW2NX4R+FJV7c2lp/3qSiO9v0mbf2b6ttK61vdOXNTEjmEszm+xdCgpKT4ztCwq
+pKRWD667vPZ7nXPCu/Vo6ftW33f67x88W788sq3SY6zofOJkWNsdp2Hs0au/d0f8
+mHwsuWNU7B1//Ndoqblm5kB00XpT8Y7qfRGt299YY/wb5fpU2LGPCt/01m+I39zw
+yY26u9N51A9rx2XPyZ8y/wFNhcfe
+=BIQm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/edisondotme
+
+==================================================================
